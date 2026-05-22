@@ -1,7 +1,4 @@
 # 🏛️ Chatbot Legal Laboral — Español & K'iche'
-> Trabajo de Graduación USAC 2025 · Licda. Maria Fernanda Gadea Letona
-
-Asistente virtual que ayuda a trabajadores guatemaltecos a conocer sus derechos según el **Código de Trabajo de Guatemala (Decreto 1441)**, con respuestas en español y K'iche'.
 
 ---
 
