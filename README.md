@@ -28,4 +28,3 @@ Despido injustificado · Horas extras · Vacaciones · Aguinaldo · Salario mín
 4. Abre el enlace `https://xxxxx.loca.lt` que aparece al final
 
 ---
-> ⚠️ Este sistema es orientativo y académico. No reemplaza la asesoría de un abogado laboralista.
